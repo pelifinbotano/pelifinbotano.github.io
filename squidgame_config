@@ -4,8 +4,8 @@
       
       "show": true,
       "CheckR": true,
-      "com": true,
-      "published": true,
+      "com": false,
+      "published": false,
       
       "version": 1,
       "newAppLink": "",
@@ -43,9 +43,9 @@
         "admb_openad": "ca-app-pub-3940256099942544/3419835294"
       },
       
-      "unity": true,
+      "unity": false,
       "adsunity": {
-        "unity_id": "3667089",
+        "unity_id": "3667089s",
         "unity_inters": "video"
       }
     }
