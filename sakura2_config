@@ -1,23 +1,24 @@
 
 
+
     {
       
       "show": true,
       "CheckR": true,
-      "com": false,
-      "published": false,
+      "com": true,
+      "published": true,
       
       "version": 1,
       "newAppLink": "com.Trailmix.LoveAndPiesMerges",
        
       "privacy": "https://pelifinbotano.blogspot.com/p/privacy.html",
-      "mail":"",
+      "mail":"pelifinbotano",
       
        
       
       
       "intersAds":true,
-      "nbOrnAds":"nb",
+      "nbOrnAds":"mix",
       
       "med":false,
       "NativeCount": 2,
@@ -35,23 +36,23 @@
       
      "anticipatefantrouble":false,
 
-      "admob": false,
+      "admob": true,
       "adsadmb": {
-        "admb_banner": "ca-app-pub-7144089957930196/2579449428",
-        "admb_inters": "ca-app-pub-7144089957930196/1266367759",
-        "admb_native": "ca-app-pub-7144089957930196/8049406134",
-        "admb_native2": "ca-app-pub-7144089957930196/8049406134",
-        "admb_openad": "ca-app-pub-7144089957930196/4501576193"
+        "admb_banner": "ca-app-pub-7144089957930196/1423926648",
+        "admb_inters": "ca-app-pub-7144089957930196/1671338659",
+        "admb_native": "ca-app-pub-7144089957930196/7853603621",
+        "admb_native2": "ca-app-pub-7144089957930196/7853603621",
+        "admb_openad": "ca-app-pub-7144089957930196/4105930302"
       },
       
-      "onBackOpenAds":false,
-      "admbNbOrB":"b",
+      "onBackOpenAds":true,
+      "admbNbOrB":"nb",
       
       
       
       "unity": false,
       "adsunity": {
-        "unity_id": "3667089s",
+        "unity_id": "3667089",
         "unity_inters": "video"
       }
     }
