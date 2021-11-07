@@ -20,7 +20,7 @@
       "nbOrnAds":"mix",
       
       "med":false,
-      "NativeCount": 3,
+      "NativeCount": 2,
       
       "showOnlyOpen":false,
       
@@ -35,21 +35,20 @@
       
      "anticipatefantrouble":false,
 
-      "admob": false,
+      "admob": true,
       "adsadmb": {
-        "admb_banner": "ca-app-pub-3940256099942544/6300978111",
-        "admb_inters": "ca-app-pub-3940256099942544/1033173712",
-        "admb_native": "ca-app-pub-3940256099942544/2247696110",
-        "admb_native2": "ca-app-pub-3940256099942544/2247696110",
-        "admb_openad": "ca-app-pub-3940256099942544/3419835294"
+        "admb_banner": "ca-app-pub-7144089957930196/3512201228",
+        "admb_inters": "ca-app-pub-7144089957930196/2083747092",
+        "admb_native": "ca-app-pub-7144089957930196/4633711209",
+        "admb_native2": "ca-app-pub-7144089957930196/4633711209",
+        "admb_openad": "ca-app-pub-7144089957930196/2007547867"
       },
       
-      "onBackOpenAds":false,
+      "onBackOpenAds":true,
       "admbNbOrB":"nb",
       
       
-      
-      "unity": true,
+      "unity": false,
       "adsunity": {
         "unity_id": "3667089",
         "unity_inters": "video"
